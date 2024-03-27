@@ -1,0 +1,13 @@
+
+
+# ProcessingInstruction
+
+## Enum
+
+
+* `ORDER_COMPLETE_ON_PAYMENT_APPROVAL` (value: `"ORDER_COMPLETE_ON_PAYMENT_APPROVAL"`)
+
+* `NO_INSTRUCTION` (value: `"NO_INSTRUCTION"`)
+
+
+
